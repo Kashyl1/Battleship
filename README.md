@@ -1,4 +1,6 @@
 # Battleship
+JetBrains Academy project
+
 
 Battleship stworzony w javie w konsoli. Jest to gra pvp w której pierwszy użytkownik stawia statki o danej nazwie i danym rozmiarze (5 statków),
 następnie drugi gracz robi to samo i gracze do siebie strzelają aż któryś z graczy nie zatopi wszystkich statków przeciwnika.
